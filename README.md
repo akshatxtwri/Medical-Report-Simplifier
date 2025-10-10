@@ -119,7 +119,7 @@ systemInstruction: `
 
 - JSON containing the simplified report
 
-⚠️ ##Known Issues
+## ⚠️ Known Issues
 
 Large PDF reports may take longer to process.
 
@@ -128,7 +128,7 @@ Some rare medical terms might not simplify correctly.
 Image quality affects OCR accuracy.
 
 
-🔧 ##Potential Improvements
+## 🔧 Potential Improvements
 
 Add multi-page PDF parsing.
 

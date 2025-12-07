@@ -9,7 +9,7 @@ const SimplifiedReport = ({ report }) => {
         Simplified Report
       </h2>
 
-      {/* Summary + Explanations */}
+ 
       <div className="mb-4">
   <h3 className="font-semibold text-gray-300 mb-2">Summary:</h3>
   <p>{report.summary}</p>
